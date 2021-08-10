@@ -9,8 +9,9 @@
 <body>
   
   <p> This app uses machine learning to predict software developer's Salary around the world based on experience, and education.
-    
+    <section>
     the source from the csv is available at  <strong>https://insights.stackoverflow.com/survey </strong>
+        </section>
   </p>
     
 </body>
